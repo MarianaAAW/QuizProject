@@ -9,7 +9,7 @@ class Display(Check):
 
 
     def read_json(self): #reads json file
-        with open("quiz.json", "r") as file:
+        with open("/Users/marianaaguerrevere/Documents/2nd Semester/adv_cod_project/quiz_project/quiz.json", "r") as file:
             data = json.load(file) 
         return data
     
