@@ -1,0 +1,141 @@
+[
+  {
+    "Animals": [
+      {
+        "question": "Is the parrot the most beautyful animal?",
+        "options": [
+          "True",
+          "False"
+        ],
+        "answer": "True"
+      },
+      {
+        "question": "All people is scared of dogs",
+        "options": [
+          "True",
+          "False"
+        ],
+        "answer": "False"
+      }
+    ]
+  },
+  {
+    "General Knowledge": [
+      {
+        "question": "What is the capital of Finland?",
+        "options": [
+          "Tulku",
+          "Helsinki",
+          "Tampere"
+        ],
+        "answer": "Helsinki"
+      },
+      {
+        "question": "What is the most common surname in the United States?",
+        "options": [
+          "Washington",
+          "Jones",
+          "Smith"
+        ],
+        "answer": "Smith"
+      },
+      {
+        "question": "What year was the United Nations established?",
+        "options": [
+          "1945",
+          "1830",
+          "1925"
+        ],
+        "answer": "1945"
+      },
+      {
+        "question": "What car manufacturer had the highest revenue in 2020?",
+        "options": [
+          "Volkswagen",
+          "Ford",
+          "Ferrari"
+        ],
+        "answer": "Volkswagen"
+      }
+    ]
+  },
+  {
+    "Geography Knowledge": [
+      {
+        "question": "What is the only continent with land in all four hemispheres? ",
+        "options": [
+          "Africa",
+          "Asia",
+          "America",
+          "Europe",
+          "None of them"
+        ],
+        "answer": "Africa"
+      },
+      {
+        "question": "Which river flows through the Grand Canyon?",
+        "options": [
+          "The Arnold River",
+          "Yellow River",
+          "Colorado River",
+          "Rio de Plata",
+          "None of them"
+        ],
+        "answer": "Colorado River"
+      },
+      {
+        "question": "What is the capital of Ireland?",
+        "options": [
+          "Waterford",
+          "Limerick",
+          "Westport",
+          "Tampere",
+          "None of them"
+        ],
+        "answer": "None of them"
+      },
+      {
+        "question": "How many colors are used in the South African flag?",
+        "options": [
+          "4",
+          "6",
+          "3",
+          "Way more",
+          "Way less"
+        ],
+        "answer": "6"
+      }
+    ]
+  },
+  {
+    "Do you know me?": [
+      {
+        "question": "Do I like to go out camping?",
+        "options": [
+          "Yes",
+          "No",
+          "Sometimes"
+        ],
+        "answer": "Sometimes"
+      },
+      {
+        "question": "What food am I alergic to?",
+        "options": [
+          "Shellfish",
+          "PopCorn",
+          "Nothing"
+        ],
+        "answer": "Shellfish"
+      },
+      {
+        "question": "How many dogs have I had in my life?",
+        "options": [
+          "3",
+          "5",
+          "9"
+        ],
+        "answer": "9"
+      }
+    ]
+  }
+]
