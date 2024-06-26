@@ -9,12 +9,12 @@ class Save():#saving to the json file
         
     
     def save_to_json(self):
-        with open("quiz.json", "r") as file: #reads the json file 
+        with open("/Users/marianaaguerrevere/Documents/2nd Semester/adv_cod_project/quiz_project/quiz.json", "r") as file: #reads the json file (it was not working only with the name so i worked with the full path)
             data = json.load(file)
             
         data.extend(self.quiz_list) #add the new data to the existing data
         #write the updated data back to the file
-        with open("quiz.json", "w") as file:
+        with open("/Users/marianaaguerrevere/Documents/2nd Semester/adv_cod_project/quiz_project/quiz.json", "w") as file:
             json.dump(data, file, indent=2)
    
 
